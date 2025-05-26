@@ -1,0 +1,1 @@
+# laba8.0_kompil
